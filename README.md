@@ -1,6 +1,12 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # one.me
 one.me is a shopping application made with flutter .
+
+>> Able to signin / signup
+>> Able to navigate through products
+>> Able to cart
+
+
 ## Team members
 1. Sarath S [https://www.github.com/sarathsdev]
 2. Mohammed Shezin V C [https://www.github.com/shezin]
@@ -38,8 +44,8 @@ Now, let's dive into the the lib folder which has the main code for the applicat
 1- screens - This file contains all the multiple pages of the application.
 2- utils - It contains the utilities/common functions of the application.
 3- main.dart - This is the starting point of application. All the application level configurations are defined here.
-4- ProductModel.dart - It defines what are the items present in the product model.
-5- generated_plugin_registrant.dart - It's auto generated file while setting up firebase for authentication.
+4- ProductModel.dart - It defines what are the items present in a product model.
+5- generated_plugin_registrant.dart - It's an auto generated file while setting up firebase for authentication.
 ```
 Project demo
 
