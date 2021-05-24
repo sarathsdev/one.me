@@ -43,7 +43,7 @@ Now, let's dive into the the lib folder which has the main code for the applicat
 ```
 Project demo
 
-
+![1_demo](https://user-images.githubusercontent.com/68682390/119358089-e581cb80-bcc5-11eb-9deb-66b10e144c9d.gif)
 
 ## Libraries used
 ```bash
