@@ -1,16 +1,71 @@
-# oneme
+![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
+# one.me
+one.me is a shopping application made with flutter .
+## Team members
+1. Sarath S [https://www.github.com/sarathsdev]
+2. Mohammed Shezin V C [https://www.github.com/shezin]
+3. Musthaq Ahammed P [https://www.github.com/i-mus]
+## Team Id
+BFH/recPyxILDk4oYGXo9/2021
+## Link to product walkthrough
+[link to video]
+## How it Works ?
 
-A new Flutter application.
+Folder Structure
+Here is the core folder structure  which flutter provides
 
-## Getting Started
+```bash
+  one.me/
+  |- android
+  |- build
+  |- ios
+  |- lib
+  |- test
+  
+```
+Here is the folder structure we have been using this project
 
-This project is a starting point for a Flutter application.
+```bash
+  lib/
+  |- screens/
+  |- utils/
+  |- main.dart
+  |- ProductModel.dart
+  |- generated_plugin_registrant.dart
+```
+Now, let's dive into the the lib folder which has the main code for the application.
+```bash
+1- screens - This file contains all the multiple pages of the application.
+2- utils - It contains the utilities/common functions of the application.
+3- main.dart - This is the starting point of application. All the application level configurations are defined here.
+4- ProductModel.dart - It defines what are the items present in the product model.
+5- generated_plugin_registrant.dart - It's auto generated file while setting up firebase for authentication.
+```
+Project demo
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Libraries used
+```bash
+firebase_core: ^1.0.4
+firebase_auth: ^1.1.1
+lottie: ^1.0.1
+carousel_slider: ^4.0.0-nullsafety.0
+```
+## How to configure
+
+Step 1. Download or clone this repo by using the link below
+```bash
+https://www.github.com/sarathsdev/one.me.git
+```
+Step 2. Go to project root and execute the following command in console to get the required dependensies:
+```bash
+flutter pub get
+```
+
+## How to Run
+```bash
+flutter run --no-sound-null-safety
+```
+## Application Download Link
+https://drive.google.com/file/d/19k5ndB2m859HSErJ7eFxYtjDZ1sLt7tO/view?usp=drivesdk
