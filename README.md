@@ -2,7 +2,7 @@
 # one.me
 one.me is a shopping application made with flutter .
 
-* Able to signin / signup
+* Able to signup / signin
 * Able to navigate through products
 * Able to cart
 
