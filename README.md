@@ -8,9 +8,9 @@ one.me is a shopping application made with flutter .
 
 
 ## Team members
-1. Sarath S [https://www.github.com/sarathsdev]
-2. Mohammed Shezin V C [https://www.github.com/shezin]
-3. Musthaq Ahammed P [https://www.github.com/i-mus]
+1.  Sarath S [https://www.github.com/sarathsdev]
+2.  Mohammed Shezin V C [https://www.github.com/shezin]
+3.  Musthaq Ahammed P [https://www.github.com/i-mus]
 ## Team Id
 BFH/recPyxILDk4oYGXo9/2021
 ## Link to product walkthrough
