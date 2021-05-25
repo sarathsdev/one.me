@@ -18,7 +18,7 @@ BFH/recPyxILDk4oYGXo9/2021
 ## How it Works ?
 
 Folder Structure
-Here is the core folder structure  which flutter provides
+ ,here is the core folder structure  which flutter provides
 
 ```bash
   one.me/
