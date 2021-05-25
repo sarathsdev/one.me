@@ -14,7 +14,7 @@ one.me is a shopping application made with flutter .
 ## Team Id
 BFH/recPyxILDk4oYGXo9/2021
 ## Link to product walkthrough
-[Available Soon]
+[https://drive.google.com/file/d/1AkQpdg9jEdKPOCvw2JvfpnUj81_RRhh0/view?usp=drivesdk]
 ## How it Works ?
 
 Folder Structure
